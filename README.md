@@ -13,7 +13,7 @@ CS2 ColoredSmoke with custom duration based on CounterStrikeSharp
 ```json
 {
   "Enabled": true,
-  "Color": "team", // random, team
+  "Color": "team", // random, team 
   "AdminsOnly": false,
   "AdminFlag": "@css/generic",
   "SmokeDuration": 18.0,
