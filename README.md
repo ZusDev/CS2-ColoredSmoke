@@ -21,4 +21,7 @@ CS2 ColoredSmoke with custom duration based on CounterStrikeSharp
 }
 ```
 
+## Official Discord (Updates/Downloads)
+<a href="https://discord.gg/d5uvMmUpuE"><img src="./discord.png"></a>
+
 
